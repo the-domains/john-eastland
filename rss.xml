@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Supply Chain Expert]]></title>
+        <description><![CDATA[Supply Chain Expert]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 03:33:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WELCOME!]]></title>
+            <description><![CDATA[<article><h1>WELCOME!</h1><h2>THE APPROACH</h2><p>I offer the ability to help the company reach its potential. Whether you're looking for a small tweak or complete overhaul, it is covered. We will take an a la carte approach so you can get precisely what you need</p></article>]]></description>
+            <link>undefinedwelcome/index.html</link>
+            <guid isPermaLink="false">afdb5436-72d9-4f14-afe7-6f1b8e7ddfd2</guid>
+            <pubDate>Thu, 10 Dec 2015 03:33:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
