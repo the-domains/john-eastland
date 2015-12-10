@@ -1,0 +1,28 @@
+name: John Eastland
+favicon: null
+layout_spectrum: 0.06703545316122472
+typography_spectrum: 0.06780992285348475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8330728339497
+  lightness: 0.6859520322177559
+  saturation: 0.47973953443579376
+  rhythmicContrast: 0.4131860751658678
+purpose: []
