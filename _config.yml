@@ -1,5 +1,8 @@
-title: Supply Chain Expert
-purpose: []
+name: John Eastland
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.6009667
+title: John Eastland - Supply Chain Expert
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.6875
-  lightness: 0.3958109
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.6875
+  lightness: 0.3958109
+  saturation: 1
   rhythmicContrast: 0.1004296
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: John Eastland
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6009667
-layout_spectrum: 0
+purpose: []
