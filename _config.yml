@@ -1,7 +1,7 @@
 name: John Eastland
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6009667
+typography_spectrum: 0.45926
 title: John Eastland - Supply Chain Expert
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#37332b'
+    - '#8f8882'
+    - '#000000'
+    - '#eae8eb'
+    - '#3f568c'
   brandStrength: 0.6875
-  lightness: 0.3958109
+  lightness: 0.5625
   saturation: 1
   rhythmicContrast: 0.5
 purpose: []
