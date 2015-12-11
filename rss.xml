@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Supply Chain Expert]]></title>
-        <description><![CDATA[Supply Chain Expert]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[John Eastland - Supply Chain Expert]]></title>
+        <description><![CDATA[John Eastland - Supply Chain Expert]]></description>
+        <link>https://thegrid.ai/john-eastland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 03:33:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Dec 2015 04:53:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/john-eastland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WELCOME]]></title>
+            <description><![CDATA[<article><h1>WELCOME</h1><p>Hi, I'm John.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/367b05c7ee4f2847f0f94790d43c4dce107e7365.jpg"></article>]]></description>
+            <link>https://thegrid.ai/john-eastland/welcome/index.html</link>
+            <guid isPermaLink="false">c7452d0e-d135-4130-9538-d04ff8c3beb0</guid>
+            <pubDate>Fri, 11 Dec 2015 04:53:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WELCOME!]]></title>
             <description><![CDATA[<article><h1>WELCOME!</h1><h2>THE APPROACH</h2><p>I offer the ability to help the company reach its potential. Whether you're looking for a small tweak or complete overhaul, it is covered. We will take an a la carte approach so you can get precisely what you need</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/john-eastland/welcome/index.html</link>
             <guid isPermaLink="false">afdb5436-72d9-4f14-afe7-6f1b8e7ddfd2</guid>
             <pubDate>Thu, 10 Dec 2015 03:33:13 GMT</pubDate>
         </item>
