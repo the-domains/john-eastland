@@ -35,7 +35,7 @@ color:
     - '#dbe2ec'
     - '#032568'
   brandStrength: 0.6875
-  lightness: 0.4375
+  lightness: 0.5625
   saturation: 0.0625
   rhythmicContrast: 0.5
 purpose: []
