@@ -1,6 +1,6 @@
 name: John Eastland
 favicon: null
-layout_spectrum: 0.13316
+layout_spectrum: 0.20281
 typography_spectrum: 0.49448
 title: John Eastland - Supply Chain Guru
 collections:
@@ -34,8 +34,8 @@ color:
     - '#1c85e0'
     - '#dbe2ec'
     - '#032568'
-  brandStrength: 0.75
-  lightness: 0.375
+  brandStrength: 0.6875
+  lightness: 0.4375
   saturation: 0.0625
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
