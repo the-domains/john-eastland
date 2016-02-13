@@ -1,5 +1,8 @@
+name: John Eastland Executive Profile
+favicon: null
+layout_spectrum: 0.20281
+typography_spectrum: 0.2744361
 title: John Eastland - Supply Chain Guru
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0.6875
-  lightness: 0.6568206
-  brandColors:
-    - '#0e61bb'
-    - '#98a4bd'
-    - '#1c85e0'
-    - '#dbe2ec'
-    - '#032568'
-  rhythmicContrast: 0.5354457
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: John Eastland
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2744361
-layout_spectrum: 0.20281
+color:
+  brandColors:
+    - '#0e61bb'
+    - '#a5b3c9'
+    - '#dbe2ec'
+    - '#7b8ca8'
+    - '#032568'
+  brandStrength: 1
+  lightness: 0.6568206
+  saturation: 0
+  rhythmicContrast: 0.5354457
+purpose: []
